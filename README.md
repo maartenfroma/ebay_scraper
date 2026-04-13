@@ -1,10 +1,10 @@
 Pandas, Pyside6.
 
 Get your id and secret at:
-https://developer.ebay.com/api-docs/static/oauth-credentials.html
+https://developer.ebay.com/api-docs/static/oauth-credentials.html.
 
-Set the "EBAY_CLIENT_ID" in environment variables
-Set the "EBAY_CLIENT_SECRET" in environment variables
+Set the "EBAY_CLIENT_ID" in environment variables.
+Set the "EBAY_CLIENT_SECRET" in environment variables.
 
 Run main and the MainWindow appears where you can set market place, query(product), pages n and output file name.
 
