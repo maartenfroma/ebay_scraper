@@ -10,4 +10,4 @@ Run main and the MainWindow appears where you can set market place, query(produc
 
 It loads the pages from the api json file and saves the results in an csv file. Data is also shown in the QTableWidget.
 
-After data is retrieved, a short analysis is run to get the dataframe statistics and boxplot of price range.
+After the product data is retrieved, a short analysis is run to get the dataframe statistics and boxplot of price range.
